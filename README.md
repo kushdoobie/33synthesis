@@ -1,20 +1,14 @@
-# 33synthesis — Artist Site
+# 33synthesis
 
 DJ / Selector — Mumbai, India  
 Berlin Groove · Hardgroove · Hard Techno · Hypnotic Tribal
 
 ## Deploy to GitHub Pages
 
-1. Create a new repository on GitHub (e.g. `33synthesis`)
-2. Upload all files from this folder to the repo
-3. Go to **Settings → Pages**
-4. Under **Source**, select `main` branch and `/ (root)`
-5. Click **Save** — your site will be live at `https://yourusername.github.io/33synthesis`
-
-## Files
-
-- `index.html` — the complete site (all images embedded)
-- `README.md` — this file
+1. Upload the contents of this folder to a **public** GitHub repository
+2. Go to **Settings → Pages**
+3. Under **Source**, select `main` branch and `/ (root)`
+4. Click **Save** — live at `https://yourusername.github.io/repo-name`
 
 ## Socials
 
